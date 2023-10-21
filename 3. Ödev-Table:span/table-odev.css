@@ -1,0 +1,17 @@
+table, th, td{
+    border: 1px solid black;
+    width: 50%;
+    margin: 20px auto 50px;
+   color: black;
+   font-size: 24px;
+   text-align: center;
+   padding: 10px;
+  
+}
+
+th{
+background: paleturquoise;
+}
+td{
+    background-color: cornsilk;
+}
